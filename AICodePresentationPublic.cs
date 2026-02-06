@@ -34,8 +34,7 @@ namespace BRG.QA.Tests.Presentations.AIAgentTests
             var response = await _httpClient.SendAsync(request);
 
             return response;
-        }
- 
+        } 
     }
     public static class ComputerVisionConfig
     {
@@ -101,7 +100,6 @@ namespace BRG.QA.Tests.Presentations.AIAgentTests
             return jsonResponse;
         }
     }
-
 
     [TestFixture]
     public class AIEvaluationTests
