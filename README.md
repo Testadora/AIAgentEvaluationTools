@@ -11,6 +11,6 @@ Ouput, including the snapshots taken in the initial implementation, will be writ
 This code is core implementation code, requiring application extensions, such as security, error handling, logging, reporting, data stores, analytics to be useful in scalable, enterprise applications.
 This code has been provided by Engineering at Blue Ridge Gateways Automation AI as open source courtesy, while it implements it into its Enterprise Ready Validation and Automation Solutions.
 Copyright 2026 Blue Ridge Gateways, LLC
-https://www.BlueRidgeGateways.com
-https://www.linkedin.com/company/blueridgegateways
+https://www.BlueRidgeGateways.com    
+https://www.linkedin.com/company/blueridgegateways    
 CTO https://www.linkedin.com/in/andreaaltenkirch/
