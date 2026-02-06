@@ -3,7 +3,8 @@ using Microsoft.Playwright;
 using System.Text.Json; 
 
 namespace BRG.QA.Tests.Presentations.AIAgentTests
-{    public class AzureVisionClient
+{    
+    public class AzureVisionClient
     {
         private readonly HttpClient _httpClient;
         private readonly string _endpoint;
@@ -232,3 +233,4 @@ namespace BRG.QA.Tests.Presentations.AIAgentTests
         }
     }
 }
+
