@@ -1,7 +1,8 @@
 To run this code locally in your Visual Studio IDE do the following:
   1. copy the AICodePresentationPublic.cs file into a test project in a solution
   2. install NuGet packages as required and prompted (NUnit, Playwright)
-  3. copy the baselineImage.png file to the local baseline file location defined in the [Test]
+  3. replace the api endpoint and subscription key with your own associated with the Computer Vision Resource you have in Azure Portal. This will have to be created, if it does not exist (refer to Azure Portal documentation)
+  4. copy the baselineImage.png file to the local baseline file location defined in the [Test]
      BaselineDir = C:\QAAutomation\TestInput\BaselineImages\ImgCompareMethodTests
   5.   Build and Run/Debug the test in Test Explorer
 The cosine similarity value and tolerance will be output to console along with pass/fail
